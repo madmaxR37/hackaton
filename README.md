@@ -28,4 +28,4 @@ This project is the backend for the RFI Hackathon application, developed using J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rfi-hackathon-backend.git
+   git clone https://github.com/madmaxR37/hackathon.git
